@@ -1,2 +1,2 @@
-VERSION=0.3.0
+VERSION=0.4.0
 FIRMWARE=https://raw.githubusercontent.com/aroraexe/OTA_OLED/main/firmware.bin
